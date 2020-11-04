@@ -1,69 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20672323-23aa-451d-97f0-1c2858820620" name="Default Changelist" comment="header is done">
-      <change afterPath="$PROJECT_DIR$/.idea/Final-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/assets/cat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/bundles/angular-typing-animation.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/bundles/angular-typing-animation.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/index.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typed.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typed.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typed.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typing-animation.directive.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typing-animation.directive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typing-animation.directive.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typing-animation.directive.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typing-animation.module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typing-animation.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typing-animation.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/angular-typing-animation/typing-animation.module.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    <list default="true" id="20672323-23aa-451d-97f0-1c2858820620" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/education/education.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/education/education.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/education/education.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/education/education.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/night-mode/night-mode.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/night-mode/night-mode.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/night-mode/night-mode.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/night-mode/night-mode.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/skills/skills.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/skills/skills.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/skills/skills.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/skills/skills.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +40,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -111,7 +86,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="D:\Web-developer\Final-project\my-dream-app\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -137,8 +112,17 @@
       <workItem from="1604238648290" duration="2121000" />
       <workItem from="1604274873747" duration="6204000" />
       <workItem from="1604317228411" duration="380000" />
-      <workItem from="1604338952890" duration="2796000" />
+      <workItem from="1604338952890" duration="27686000" />
+      <workItem from="1604482706928" duration="4408000" />
     </task>
+    <task id="LOCAL-00001" summary="header is done">
+      <created>1604392750541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604392750541</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,26 +134,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="header is done" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="512" y="236" key="#Notifications" timestamp="1604392944915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1604392944915" />
     <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604339449157">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604339449157" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1604339398348">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1604392749794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604339398348" />
-    <state x="165" y="170" key="FileChooserDialogImpl" timestamp="1604240626598">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604392749794" />
+    <state x="147" y="78" key="DiffContextDialog" timestamp="1604392878276">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="165" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604240626598" />
-    <state x="28" y="48" width="914" height="709" key="SettingsEditor" timestamp="1604238921409">
+    <state x="147" y="78" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1604392878276" />
+    <state x="438" y="191" key="EditFileWatcherDialog" timestamp="1604392676086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="28" y="48" width="914" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604238921409" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604339467076">
+    <state x="438" y="191" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1604392676086" />
+    <state x="165" y="170" key="FileChooserDialogImpl" timestamp="1604394559360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604339467076" />
+    <state x="165" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604394559360" />
+    <state x="28" y="48" width="914" height="709" key="SettingsEditor" timestamp="1604394609869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="28" y="48" width="914" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604394609869" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604494258758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604494258758" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604392654909">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
