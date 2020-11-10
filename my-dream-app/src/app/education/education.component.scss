@@ -9,7 +9,7 @@
   -moz-box-shadow: 0 0 10px 0 #e7e7e7;
   box-shadow: 0 0 10px 0 #e7e7e7;
   padding: 30px;
-  margin-bottom: 35px;
+  //margin-bottom: 35px;
 }
 .wrapper {
   width: 930px;
@@ -28,8 +28,8 @@
 .white-box-education-2,
 .white-box-education-3,
 .white-box-education-4{
-  margin-right: 10px;
-  text-align: center;
+  //margin-right: 10px;
+  //text-align: center;
   background-color: #fff;
   width: 218px;
   height: 180px;
@@ -39,4 +39,24 @@
   box-shadow: 0 0 10px 0 #e7e7e7;
   padding: 30px;
   margin-bottom: 20px;
+}
+.white-box-education-1,
+.white-box-education-2,
+.white-box-education-4 {
+  margin-right: 16px;
+}
+.main-wrapper{
+  margin-bottom: 50px;
+}
+.education-text{
+  text-align: center
+}
+
+.education-text:hover{
+  color: #125699;
+  //color: rgb(205,163,152);
+  //font-weight: bold;
+  //background: linear-gradient(90deg, rgba(205,163,152,1) 0%, rgba(205,163,152,1) 50%, rgba(205,163,152,1) 100%);
+  //font-weight: 900;
+  cursor: context-menu;
 }

@@ -31,6 +31,16 @@ state:false;
   //     this.overlay.classList.add("light-custom-theme");
   //   }
   // }
-
+  changeTheme(){
+    let tumbler = document.querySelector(".tumbler");
+    tumbler.classList.toggle("pull-right");
+    // tumbler.style.transform= "translateX(calc(100% - 2px))";
+    let element = document.body;
+    element.classList.toggle("dark-mode");
+    let element_2 = document.querySelector(".toolbar");
+    element_2.classList.toggle("dark-mode-toolbar");
+    let element_3 = document.querySelector(".bio-box");
+      element_3.classList.toggle("dark-mode-bio");
+  }
 }
 

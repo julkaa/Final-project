@@ -9,7 +9,7 @@
   -moz-box-shadow: 0 0 10px 0 #e7e7e7;
   box-shadow: 0 0 10px 0 #e7e7e7;
   padding: 30px;
-  margin-bottom: 35px;
+  //margin-bottom: 35px;
 }
 .wrapper {
   width: 930px;
@@ -25,31 +25,46 @@
   border: 1px solid black;
 }
 .skill{
-  margin-right: 10px;
-  //text-align: center;
+  //margin-right: 10px;
+  //background-color: #fff;
+  //width: 218px;
+  //height: 180px;
+  //float: left;
+  //-webkit-box-shadow: 0 0 10px 0 #e7e7e7;
+  //-moz-box-shadow: 0 0 10px 0 #e7e7e7;
+  //box-shadow: 0 0 10px 0 #e7e7e7;
+  //padding: 15px;
+
+
   background-color: #fff;
-
   width: 218px;
-  height: 218px;
-
+  height: 180px;
   float: left;
   -webkit-box-shadow: 0 0 10px 0 #e7e7e7;
   -moz-box-shadow: 0 0 10px 0 #e7e7e7;
   box-shadow: 0 0 10px 0 #e7e7e7;
-  padding: 15px;
-
-  //background-size: 100%;
-}
-.skill_icon{
-  //width: 50px;
-  //height: 50px;
-  background-size: 100%;
-  //background-image: url("https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png");
+  padding: 30px;
+  margin-bottom: 20px;
 }
 
-#skill-text:hover {
-  transition: 1s ease-in-out;
-  color: red;
-  font-weight: 900;
+.margined{
+  margin-right: 16px;
+}
+
+.skill-text:hover {
+  //transition: 1s ease-in-out;
+  //color:rgb(205,163,152);
+  color: #125699;
+  //color: rgb(205,163,152);
+  //font-weight: bold;
+  //background: linear-gradient(90deg, rgba(205,163,152,1) 0%, rgba(205,163,152,1) 50%, rgba(205,163,152,1) 100%);
+  //font-weight: 900;
   cursor: context-menu;
 }
+.main-wrapper{
+  margin-bottom: 50px;
+}
+.skill-text{
+  text-align: center;
+}
+

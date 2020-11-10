@@ -9,6 +9,7 @@ import { EducationComponent } from './education/education.component';
 import { SkillsComponent } from './skills/skills.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { InfoComponent } from './info/info.component';
+import { DefaultPageComponent } from './default-page/default-page.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { InfoComponent } from './info/info.component';
     EducationComponent,
     SkillsComponent,
     ProjectsComponent,
-    InfoComponent
+    InfoComponent,
+    DefaultPageComponent
   ],
   imports: [
     BrowserModule,

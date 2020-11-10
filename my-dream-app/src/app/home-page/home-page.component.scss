@@ -9,7 +9,6 @@
   //justify-items: center;
   background: rgb(205,163,152);
   background: linear-gradient(90deg, rgba(205,163,152,1) 0%, rgba(205,163,152,1) 50%, rgba(205,163,152,1) 100%);
-   //color: white;
   font-weight: 600;
   font-size: large;
   //padding-left: 70px;
@@ -48,6 +47,9 @@
   border: 1px solid black;
   float: right;
 }
+.lighter-text{
+font-weight: lighter;
+}
 ul {
   list-style: none;
 }
@@ -61,7 +63,13 @@ ul {
   justify-content: center;
   margin-top: 16px;
 }
-
+.icon-container {
+  display: flex;
+  flex-wrap: wrap;
+  //justify-content: center;
+  margin-left: 25px;
+  margin-top: 16px;
+}
 .card {
   border-radius: 4px;
   border: 1px solid #eee;
@@ -153,6 +161,9 @@ ul {
   padding-right: 10px;
   background: #dde1e7;
   box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(18, 18, 19, 0.288);
+}
+.main-wrapper{
+  margin-bottom: 50px;
 }
 //.switch {
 //  position: relative;
@@ -290,20 +301,20 @@ ul {
   margin-left: 60px;
 }
 
-svg#rocket {
-  width: 80px;
-  position: absolute;
-  left: -10px;
-  top: -24px;
-}
-
-svg#rocket-smoke {
-  height: calc(100vh - 95px);
-  position: absolute;
-  top: 10px;
-  right: 180px;
-  z-index: -10;
-}
+//svg#rocket {
+//  width: 80px;
+//  position: absolute;
+//  left: -10px;
+//  top: -24px;
+//}
+//
+//svg#rocket-smoke {
+//  height: calc(100vh - 95px);
+//  position: absolute;
+//  top: 10px;
+//  right: 180px;
+//  z-index: -10;
+//}
 
 a,
 a:visited,
@@ -313,6 +324,7 @@ a:hover {
 
 a:hover {
   color: #125699;
+  //color: rgb(205,163,152);
   font-weight: bold
 }
 .container{

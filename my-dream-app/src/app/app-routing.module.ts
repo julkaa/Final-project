@@ -5,10 +5,11 @@ import {EducationComponent} from "./education/education.component";
 import {SkillsComponent} from "./skills/skills.component";
 import {ProjectsComponent} from "./projects/projects.component";
 import {InfoComponent} from "./info/info.component";
+import {DefaultPageComponent} from "./default-page/default-page.component";
 // import {NightModeComponent} from "./night-mode/night-mode.component";
 
 const routes: Routes = [
-  {path:'', component: HomePageComponent},
+  {path:'', component: DefaultPageComponent},
   {
     path:'education',
     component: EducationComponent
