@@ -4,6 +4,7 @@
   left: 0;
   right: 0;
   height: 250px;
+  width: 100%;
   //display: flex;
   //align-items: center;
   //justify-items: center;
@@ -16,7 +17,7 @@
   //margin-right: 100px;
 }
 .wrapper {
-  width: 930px;
+  max-width: 930px;
   //height: 200px;
   margin: 0 auto;
   //padding: 0 15px;
@@ -40,15 +41,18 @@
   -moz-box-shadow: 0 0 10px 0 #e7e7e7;
   box-shadow: 0 0 10px 0 #e7e7e7;
 }
+.top-box img{
+  float: left;
+}
 .bio-box{
-  //float: left;
-  width: 606px;
+  float: left;
+  width: 600px;
   height: 100%;
   border: 1px solid black;
-  float: right;
+  //float: right;
 }
 .lighter-text{
-font-weight: lighter;
+  font-weight: lighter;
 }
 ul {
   list-style: none;
@@ -146,7 +150,6 @@ ul {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-
 }
 .condiv
 {
@@ -325,7 +328,7 @@ a:hover {
 a:hover {
   color: #125699;
   //color: rgb(205,163,152);
-  font-weight: bold
+  //font-weight: bold
 }
 .container{
   height: 100%;

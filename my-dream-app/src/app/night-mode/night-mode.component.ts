@@ -38,7 +38,7 @@ state:false;
     let element = document.body;
     element.classList.toggle("dark-mode");
     let element_2 = document.querySelector(".toolbar");
-    element_2.classList.toggle("dark-mode-toolbar");
+    element_2.classList.toggle("dark-mode");
     let element_3 = document.querySelector(".bio-box");
       element_3.classList.toggle("dark-mode-bio");
   }

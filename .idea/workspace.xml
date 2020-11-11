@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20672323-23aa-451d-97f0-1c2858820620" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/default-page/default-page.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/default-page/default-page.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/default-page/default-page.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/app/default-page/default-page.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-dream-app/src/assets/project-1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/education/education.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/education/education.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/education/education.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/education/education.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/night-mode/night-mode.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/night-mode/night-mode.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/night-mode/night-mode.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/night-mode/night-mode.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/night-mode/night-mode.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/night-mode/night-mode.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/skills/skills.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/skills/skills.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/skills/skills.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/skills/skills.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-dream-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-dream-app/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/styles.scss" afterDir="false" />
     </list>
@@ -110,7 +91,8 @@
       <workItem from="1604844300305" duration="14084000" />
       <workItem from="1604924915895" duration="4648000" />
       <workItem from="1604953327310" duration="736000" />
-      <workItem from="1605031418455" duration="1834000" />
+      <workItem from="1605031418455" duration="8684000" />
+      <workItem from="1605094925675" duration="957000" />
     </task>
     <task id="LOCAL-00001" summary="header is done">
       <created>1604392750541</created>
@@ -126,35 +108,53 @@
       <option name="project" value="LOCAL" />
       <updated>1604495661893</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all blocks are done">
+      <created>1605033751929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605033751930</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="header is done" />
     <MESSAGE value="education,skills are done" />
-    <option name="LAST_COMMIT_MESSAGE" value="education,skills are done" />
+    <MESSAGE value="all blocks are done" />
+    <option name="LAST_COMMIT_MESSAGE" value="all blocks are done" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="512" y="236" key="#Notifications" timestamp="1604392944915">
+    <state x="512" y="236" key="#Notifications" timestamp="1605042906404">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="512" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1604392944915" />
+    <state x="512" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1605042906404" />
     <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604339449157">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604339449157" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1604495661123">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1605033751379">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604495661123" />
-    <state x="147" y="78" key="DiffContextDialog" timestamp="1604392878276">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605033751379" />
+    <state x="147" y="78" width="1228" height="687" key="DiffContextDialog" timestamp="1605042906803">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="147" y="78" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1604392878276" />
+    <state x="147" y="78" width="1228" height="687" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605042906803" />
     <state x="438" y="191" key="EditFileWatcherDialog" timestamp="1604392676086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -163,14 +163,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="165" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604924675133" />
+    <state x="587" y="115" key="RollbackChangesDialog" timestamp="1605042782004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="587" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605042782004" />
     <state x="28" y="48" width="914" height="709" key="SettingsEditor" timestamp="1604394609869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="28" y="48" width="914" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604394609869" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604495664029">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605033757200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604495664029" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605033757200" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604392654909">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

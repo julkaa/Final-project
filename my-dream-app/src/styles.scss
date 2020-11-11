@@ -1,4 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+
+  //-webkit-box-sizing: border-box;
+  //-moz-box-sizing: border-box;
+  //box-sizing: border-box;
+}
 body{
   background-color: #faf7f5;
   font-family: 'Space Grotesk', sans-serif;
@@ -30,5 +36,20 @@ color: blue;
 
 
 }
-
+//@media only screen and (max-width: 930px) {
+//  .image-box {width: 100%}
+//  .image-box img {
+//    display: table;
+//    margin: 0 auto;
+//    max-width: 345px;
+//  }
+//}
+//@media only screen and (max-width: 800px) {
+//  .image-box {width: 100%}
+//  .image-box img {
+//    display: table;
+//    margin: 0 auto;
+//    max-width: 345px;
+//  }
+//}
 
