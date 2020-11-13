@@ -81,14 +81,30 @@ header
 }
   .white-box-education-1,
   .white-box-education-2,
-  .white-box-education-3,
-  .white-box-education-4{
-    min-width: 203px;
+   .white-box-education-3,
+   .white-box-education-4{
+
+     min-width: 300px;
+    min-height: 250px;
+    font-size: 1.2em;
+   }
+  .white-box-education-5,
+  .white-box-education-6{
+    display: none;
   }
 
-  .first-line{
-    //min-width: 649px;
-    clear-side: both;
+  .first-line,
+  .second-line{
+  display: block;
+    align-items: center;
+    flex-direction: column;
+    max-width: 100%;
+    background-color: #faf7f5;
+
+  }
+  .main-box{
+    min-height: 1100px;
+
   }
 }
 @media only screen and (max-width: 405px) {
@@ -97,7 +113,8 @@ header
   }
   .first-line{
     //display: table-column;
-  max-width: 100%;
+    display: flex;
+  width: 100%;
   }
 
   .header

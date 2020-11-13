@@ -27,19 +27,28 @@
 .white-box-education-1,
 .white-box-education-2,
 .white-box-education-3,
+.white-box-education-4{
+  background-color: #fff;
+  -webkit-box-shadow: 0 0 10px 0 #e7e7e7;
+  -moz-box-shadow: 0 0 10px 0 #e7e7e7;
+  box-shadow: 0 0 10px 0 #e7e7e7;
+}
+.white-box-education-1,
+.white-box-education-2,
+.white-box-education-3,
 .white-box-education-4,
 .white-box-education-5,
 .white-box-education-6{
   //margin-right: 10px;
   //text-align: center;
-  background-color: #fff;
+  //background-color: #fff;
   //width: 280px;
   width: 31.5%;
   height: 217px;
   float: left;
-  -webkit-box-shadow: 0 0 10px 0 #e7e7e7;
-  -moz-box-shadow: 0 0 10px 0 #e7e7e7;
-  box-shadow: 0 0 10px 0 #e7e7e7;
+  //-webkit-box-shadow: 0 0 10px 0 #e7e7e7;
+  //-moz-box-shadow: 0 0 10px 0 #e7e7e7;
+  //box-shadow: 0 0 10px 0 #e7e7e7;
   padding: 23px;
   margin-bottom: 20px;
 }
