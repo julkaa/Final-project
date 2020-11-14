@@ -10,6 +10,7 @@ import { SkillsComponent } from './skills/skills.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { InfoComponent } from './info/info.component';
 import { DefaultPageComponent } from './default-page/default-page.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { DefaultPageComponent } from './default-page/default-page.component';
     SkillsComponent,
     ProjectsComponent,
     InfoComponent,
-    DefaultPageComponent
+    DefaultPageComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

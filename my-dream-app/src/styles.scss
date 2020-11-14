@@ -82,15 +82,33 @@ header
   .white-box-education-1,
   .white-box-education-2,
    .white-box-education-3,
-   .white-box-education-4{
+   .white-box-education-4,
+  .skill-1,
+  .skill-2,
+  .skill-3,
+  //.skill-4,
+  .skill-5
+  {
 
      min-width: 300px;
     min-height: 250px;
     font-size: 1.2em;
    }
+  .skill-4{
+    min-width: 300px;
+    min-height: 250px;
+    font-size: 1.2em;
+    //margin-bottom: 20px;
+  }
   .white-box-education-5,
   .white-box-education-6{
     display: none;
+  }
+.skill-6{
+  display: none;
+}
+  .second-line-skill{
+    min-height: 520px
   }
 
   .first-line,
@@ -106,6 +124,10 @@ header
     min-height: 1100px;
 
   }
+  .second-line{
+    min-width: 100%;
+  }
+
 }
 @media only screen and (max-width: 405px) {
   .white-box-education-1{
