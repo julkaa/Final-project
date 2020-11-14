@@ -11,27 +11,7 @@ state:false;
 
   ngOnInit(): void {
   }
-  // toggleTheme(): void {
-  //   if (this.overlay.classList.contains("custom-theme")) {
-  //     this.overlay.classList.remove("custom-theme");
-  //     this.overlay.classList.add("light-custom-theme");
-  //   } else if (this.overlay.classList.contains("light-custom-theme")) {
-  //     this.overlay.getContainerElement().classList.remove("light-custom-theme");
-  //     this.overlay.classList.add("custom-theme");
-  //   } else {
-  //     this.overlay.classList.add("light-custom-theme");
-  //   }
-  //   if (document.body.classList.contains("custom-theme")) {
-  //     document.body.classList.remove("custom-theme");
-  //     document.body.classList.add("light-custom-theme");
-  //   } else if (document.body.classList.contains("light-custom-theme")) {
-  //     document.body.classList.remove("light-custom-theme");
-  //     document.body.classList.add("custom-theme");
-  //   } else {
-  //     this.overlay.classList.add("light-custom-theme");
-  //   }
-  // }
-  changeTheme(){
+ changeTheme(){
     let tumbler = document.querySelector(".tumbler");
     tumbler.classList.toggle("pull-right");
     // tumbler.style.transform= "translateX(calc(100% - 2px))";

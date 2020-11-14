@@ -1,4 +1,3 @@
-/* You can add global styles to this file, and also import other style files */
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -11,16 +10,10 @@ body{
   font-family: 'Space Grotesk', sans-serif;
 }
 .dark-mode {
-  //background-color: black;
   color: white;
   background-color: #09161c;
-
-
-
 }
 .dark-mode-toolbar{
-  //background: rgb(62,50,47);
-  //background: linear-gradient(90deg, rgba(62,50,47,1) 0%, rgba(61,49,46,1) 50%, rgba(52,42,39,1) 100%);
   background: rgb(6,15,19);
   background: linear-gradient(90deg, rgba(6,15,19,1) 0%, rgba(17,40,51,1) 50%, rgba(6,15,19,1) 100%);
 color: blue;
@@ -30,23 +23,10 @@ color: blue;
   transform:translateX(calc(100% - 2px));
 }
 .dark-mode-bio {
-  //background-color: black;
   color: white;
   background-color: #182533;
-
-
-
 }
 @media only screen and (max-width: 930px) {
-
-
-  .top-box,
-  .card-container
-  //.main-box
-  {
-
-    //min-width: 480px;
-  }
   .card{
     max-height: 40px;
   }
@@ -54,12 +34,8 @@ color: blue;
 header
 {
   width: 96%;
-  //display: none;
   margin: auto;
-
 }
-
-
 }
 @media only screen and (max-width: 745px) {
   .card-container{
@@ -86,10 +62,8 @@ header
   .skill-1,
   .skill-2,
   .skill-3,
-  //.skill-4,
   .skill-5
   {
-
      min-width: 300px;
     min-height: 250px;
     font-size: 1.2em;
@@ -98,7 +72,6 @@ header
     min-width: 300px;
     min-height: 250px;
     font-size: 1.2em;
-    //margin-bottom: 20px;
   }
   .white-box-education-5,
   .white-box-education-6{
@@ -110,7 +83,6 @@ header
   .second-line-skill{
     min-height: 520px
   }
-
   .first-line,
   .second-line{
   display: block;
@@ -118,29 +90,23 @@ header
     flex-direction: column;
     max-width: 100%;
     background-color: #faf7f5;
-
   }
   .main-box{
     min-height: 1100px;
-
   }
   .second-line{
     min-width: 100%;
   }
-
 }
 @media only screen and (max-width: 405px) {
   .white-box-education-1{
     width: 100%;
   }
   .first-line{
-    //display: table-column;
     display: flex;
   width: 100%;
   }
-
   .header
-  //,.header h3
   {
     min-height: 120px;
   }
@@ -154,12 +120,4 @@ header
     padding-top: 340px;
   }
 }
-//@media only screen and (max-width: 800px) {
-//  .image-box {width: 100%}
-//  .image-box img {
-//    display: table;
-//    margin: 0 auto;
-//    max-width: 345px;
-//  }
-//}
 

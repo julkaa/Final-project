@@ -4,34 +4,24 @@
   left: 0;
   right: 0;
   height: 250px;
-  //width: 100%;
   background: rgb(205,163,152);
   background: linear-gradient(90deg, rgba(205,163,152,1) 0%, rgba(205,163,152,1) 50%, rgba(205,163,152,1) 100%);
   font-weight: 600;
   font-size: large;
 }
 .wrapper {
-
-  //margin-bottom: 50px;
   max-width: 930px;
-
-  //height: 200px;
   margin: 0 auto;
-
-  //padding: 0 15px;
   border: 1px solid black;
   align-items: center;
 }
 .header{
   color: white;
   height: 100px;
-  //width: 100%;
   margin-top: 70px;
   padding: 0 15px;
 }
 .top-box{
-  //margin-top: 30px;
-  //margin-bottom: -60px;
   height: 322px;
   width: 100%;
   background-color: white;
@@ -50,7 +40,6 @@
 .bio-box{
   padding-top: 40px;
   float: left;
-  //width: 600px;
   height: 100%;
   border: 1px solid black;
 }
@@ -135,7 +124,6 @@ ul {
 
 .main-box{
   height: 500px;
-  //width: 100%;
   background-color: white;
   border: 1px solid black;
   -webkit-box-shadow: 0 0 10px 0 #e7e7e7;

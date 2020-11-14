@@ -1,27 +1,20 @@
 .main-box{
-  //margin-top: 500px;
   max-height: 500px;
-  //width: 100%;
   background-color: white;
-  //float: left;
   border: 1px solid black;
   -webkit-box-shadow: 0 0 10px 0 #e7e7e7;
   -moz-box-shadow: 0 0 10px 0 #e7e7e7;
   box-shadow: 0 0 10px 0 #e7e7e7;
   padding: 20px;
-  //margin-bottom: 35px;
 }
 .wrapper {
   max-width: 930px;
-  //height: 200px;
   margin: 0 auto;
-  //padding: 0 15px;
   border: 1px solid black;
   align-items: center;
 }
 .container{
   height: 100%;
-  //position: relative;
   border: 1px solid black;
 }
 .white-box-education-1,
@@ -39,25 +32,12 @@
 .white-box-education-4,
 .white-box-education-5,
 .white-box-education-6{
-  //margin-right: 10px;
-  //text-align: center;
-  //background-color: #fff;
-  //width: 280px;
   width: 31.5%;
   height: 217px;
   float: left;
-  //-webkit-box-shadow: 0 0 10px 0 #e7e7e7;
-  //-moz-box-shadow: 0 0 10px 0 #e7e7e7;
-  //box-shadow: 0 0 10px 0 #e7e7e7;
   padding: 23px;
   margin-bottom: 20px;
 }
-//.white-box-education-1,
-//.white-box-education-2,
-//.white-box-education-4,
-//.white-box-education-5 {
-//  margin-right: 10px;
-//}
 .white-box-education-4,
 .white-box-education-5,
 .white-box-education-6{
@@ -72,29 +52,16 @@
 .education-text{
   text-align: center
 }
-
 .education-text:hover{
   color: #125699;
-  //color: rgb(205,163,152);
-  //font-weight: bold;
-  //background: linear-gradient(90deg, rgba(205,163,152,1) 0%, rgba(205,163,152,1) 50%, rgba(205,163,152,1) 100%);
-  //font-weight: 900;
   cursor: context-menu;
 }
 .first-line,
 .second-line{
   display: flex;
-  //width: 103.5%;
-  //height: 50%;
   margin-left: 1px;
   justify-content: space-between;
-  //overflow: fragments;
-
 }
 .second-line{
   width: 98%;
 }
-//.second-line{
-//  margin: 0px;
-//
-//}
