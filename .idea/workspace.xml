@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20672323-23aa-451d-97f0-1c2858820620" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/default-page/default-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/default-page/default-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/education/education.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/education/education.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/footer/footer.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/footer/footer.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/skills/skills.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/skills/skills.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
