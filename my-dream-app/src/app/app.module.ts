@@ -11,6 +11,7 @@ import { ProjectsComponent } from './projects/projects.component';
 import { InfoComponent } from './info/info.component';
 import { DefaultPageComponent } from './default-page/default-page.component';
 import { FooterComponent } from './footer/footer.component';
+import {InfiniteTypeDeleteModule} from "ngx-sbz-type-delete";
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { FooterComponent } from './footer/footer.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    InfiniteTypeDeleteModule
   ],
   providers: [],
   bootstrap: [AppComponent]
