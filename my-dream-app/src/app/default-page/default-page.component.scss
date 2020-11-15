@@ -5,7 +5,7 @@
   -webkit-box-shadow: 0 0 10px 0 #e7e7e7;
   -moz-box-shadow: 0 0 10px 0 #e7e7e7;
   box-shadow: 0 0 10px 0 #e7e7e7;
-  padding: 30px;
+  padding: 20px;
 }
 .wrapper {
   max-width: 930px;
@@ -21,4 +21,21 @@
 .main-wrapper{
   margin-bottom: 50px;
 }
-
+.white-box1,
+.white-box-2,
+.white-box-3,
+.white-box-4,
+.white-box-5,
+.white-box-6{
+  height: 207px;
+  width: 31.5%;
+  float: left;
+  padding: 23px;
+  margin-bottom: 20px;
+}
+.first-line,
+.second-line{
+  display: flex;
+  margin-left: 1px;
+  justify-content: space-between;
+}
