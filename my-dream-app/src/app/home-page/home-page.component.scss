@@ -10,13 +10,12 @@
   font-size: large;
 }
 .typingLine{
-  margin-top: 10px;
+  margin-top: 13px;
   font-weight: 500;
 }
 .wrapper {
   max-width: 930px;
   margin: 0 auto;
-  border: 1px solid black;
   align-items: center;
 }
 .header{
@@ -39,13 +38,12 @@
   float: left;
 }
 .nav-div{
-  margin-top: 475px;
+  margin-top: 495px;
 }
 .bio-box{
   padding-top: 40px;
   float: left;
   height: 100%;
-  border: 1px solid black;
 }
 .lighter-text{
   font-weight: lighter;
@@ -218,4 +216,8 @@ a:hover {
   position: relative;
   border: 1px solid black;
 }
-
+.photo_jk{
+  height:322px;
+  width:320px;
+  background-size: cover;
+}

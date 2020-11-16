@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20672323-23aa-451d-97f0-1c2858820620" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-dream-app/src/assets/julia_kozak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf/Andrii Loza.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/default-page/default-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/default-page/default-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/default-page/default-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/default-page/default-page.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/home-page/home-page.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/info/info.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/projects/projects.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/assets/cat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/assets/project-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +57,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Portfolio-Neumorphism-ReactJs-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS-project" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -154,6 +162,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604339449157" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605473518493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605473518493" />
     <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1605277608896">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -166,10 +178,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="438" y="191" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1604392676086" />
-    <state x="165" y="170" key="FileChooserDialogImpl" timestamp="1605401761590">
+    <state x="165" y="170" key="FileChooserDialogImpl" timestamp="1605485777584">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="165" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605401761590" />
+    <state x="165" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605485777584" />
     <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1605375418267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

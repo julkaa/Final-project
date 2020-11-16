@@ -37,7 +37,7 @@ header
   margin: auto;
 }
 }
-@media only screen and (max-width: 745px) {
+@media only screen and (max-width: 765px) {
   .card-container{
     margin-top: 100px;
   }
@@ -52,6 +52,10 @@ header
     background-color: white;
     width: 100%;
   }
+.center{
+  max-width: 80%;
+  margin: auto;
+}
 .card-container{
   padding-top: 320px;
 }
@@ -62,7 +66,9 @@ header
   .skill-1,
   .skill-2,
   .skill-3,
-  .skill-5
+  .skill-5,
+  .white-box-info-1,
+  .white-box-info-2
   {
      min-width: 300px;
     min-height: 250px;
@@ -74,7 +80,14 @@ header
     font-size: 1.2em;
   }
   .white-box-education-5,
-  .white-box-education-6{
+  .white-box-education-6,
+  white-box-projects-4,
+  white-box-projects-5,
+  white-box-projects-6,
+  .white-box-info-3,
+  .white-box-info-4,
+  .white-box-info-5,
+  .white-box-info-6{
     display: none;
   }
 .skill-6{
@@ -91,11 +104,36 @@ header
     max-width: 100%;
     background-color: #faf7f5;
   }
-  .main-box{
+  .main-box-education{
     min-height: 1100px;
   }
   .second-line{
     min-width: 100%;
+  }
+  #pingbuller
+  {
+    font-size: 0.7em;
+  }
+  #pingbuller span{
+    font-size: 1em;
+  }
+  #logo{
+    font-size: 0.6em;
+  }
+  .second-line-projects{
+    max-height: 0px;
+  }
+  .main-box-projects{
+    max-height: 720px;
+  }
+.f-l-projects{
+  max-height: 680px;
+}
+  .f-l-info{
+    max-height: 520px;
+  }
+  .main-box-info{
+    max-height: 563px;
   }
 }
 @media only screen and (max-width: 405px) {
@@ -114,10 +152,30 @@ header
     font-size: 17px;
   }
   .bio-box ul{
-    padding-left: 20px;
+    padding-left: 0px;
   }
   .card-container{
     padding-top: 340px;
+  }
+  .typingLine{
+    font-size: 17px;
+    margin-left: -9px;
+  }
+#icons{
+  margin-left: -35px;
+}
+  .params{
+    margin-left: -20px;
+  }
+  #pingbuller
+  {
+    font-size: 0.5em;
+  }
+  #pingbuller span{
+    font-size: 1em;
+  }
+  #logo{
+    font-size: 0.45em;
   }
 }
 
